@@ -33,5 +33,7 @@ This project analyzes sales and customer behavior data for "Vrinda Store" using 
 ---
 
 ## 📸 Screenshots
+![Uploading image.png…]()
 
-![Dashboard](Visuals/dashboard_screenshot.png)
+
+
